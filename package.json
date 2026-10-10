@@ -1,0 +1,15 @@
+{
+  "name": "api-achados-perdidos",
+  "version": "1.0.0",
+  "description": "API REST simples para objetos achados e perdidos",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
